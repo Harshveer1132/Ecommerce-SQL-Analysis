@@ -1,27 +1,35 @@
 
-1.Top 5 Products by Revenue
+# E-Commerce SQL Analysis — Key Insights
 
-Based on delivered orders, the top products were:
+## 1. Project Overview
 
-Yoga Mat — 178,299.20
-Portable SSD — 169,012.00
-Track Pants — 161,022.50
-HDMI Cable — 139,108.50
-Backpack — 136,604.00
+Analysed e-commerce data using MySQL to evaluate sales performance, product revenue, customer spending, and order cancellations.
 
-2.Highest-Revenue Category
-Sports generated the highest revenue at 574,510.95, followed by Home & Office at 530,684.35.
+## 2. Key Findings
 
-3.Customer Spending Patterns
-Vikram Patel (Customer ID 105) had the highest delivered-order spending at 157,909.45.
-Average spending among customers with delivered purchases was 57,272.50.
+* **Top Product:** Yoga Mat generated the highest revenue among the top five products, at 178,299.20.
+* **Top Category:** Sports generated the highest category revenue, at 574,510.95.
+* **Top Customer:** Vikram Patel recorded the highest spending, at 157,909.45.
+* **Order Cancellations:** 17 out of 180 orders were cancelled, giving a cancellation rate of 9.44%.
+* **Monthly Performance:** September 2024 recorded the highest monthly revenue, at 116,897.85.
+* **Lowest Revenue Month:** July 2024 recorded revenue of 46,336.00.
 
-4.Order Cancellation Rate
-Total orders: 180
-Cancelled orders: 17
-Cancellation rate: 9.44%
+## 3. Business Recommendations
 
-5.Monthly Revenue Trends
-Highest revenue: September 2024 — 116,897.85
-Lowest revenue: July 2024 — 46,336.00
-Revenue increased from July to August and remained high in September.
+* Monitor high-revenue products and maintain appropriate stock levels.
+* Investigate the factors contributing to order cancellations.
+* Study customer purchasing patterns to improve retention.
+* Analyse monthly sales fluctuations to support better sales planning.
+
+## 4. Skills Demonstrated
+
+* MySQL and MySQL Workbench
+* Data aggregation and filtering
+* Joins, CTEs, and subqueries
+* CASE statements and set operations
+* Window functions
+* Business insight generation
+
+## 5. Conclusion
+
+This project demonstrates how SQL can transform raw e-commerce data into actionable insights about products, customers, and sales performance.
