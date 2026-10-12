@@ -1,0 +1,51 @@
+customer_id,customer_name,gender,age,city,state,signup_date
+101,Aarav Sharma,Male,51,Delhi,Delhi,2023-08-27
+102,Ananya Singh,Male,36,Mumbai,Maharashtra,2023-11-10
+103,Rahul Verma,Male,47,Pune,Maharashtra,2023-03-15
+104,Priya Gupta,Male,40,Jaipur,Rajasthan,2023-12-23
+105,Vikram Patel,Female,50,Ahmedabad,Gujarat,2023-09-19
+106,Neha Kumar,Female,40,Bengaluru,Karnataka,2023-02-16
+107,Rohan Mehta,Female,37,Chandigarh,Chandigarh,2023-07-02
+108,Sneha Joshi,Male,25,Hyderabad,Telangana,2023-12-05
+109,Arjun Malhotra,Female,45,Chennai,Tamil Nadu,2023-05-27
+110,Kavya Yadav,Female,41,Kolkata,West Bengal,2023-06-11
+111,Aditya Sharma,Male,27,Delhi,Delhi,2023-02-03
+112,Ishita Singh,Female,56,Mumbai,Maharashtra,2023-01-24
+113,Karan Verma,Female,53,Pune,Maharashtra,2023-04-12
+114,Pooja Gupta,Female,25,Jaipur,Rajasthan,2023-10-04
+115,Varun Patel,Female,33,Ahmedabad,Gujarat,2023-01-25
+116,Meera Kumar,Female,37,Bengaluru,Karnataka,2023-11-22
+117,Nikhil Mehta,Female,51,Chandigarh,Chandigarh,2023-10-05
+118,Riya Joshi,Male,33,Hyderabad,Telangana,2023-06-20
+119,Aman Malhotra,Male,19,Chennai,Tamil Nadu,2023-07-19
+120,Simran Yadav,Male,49,Kolkata,West Bengal,2023-09-07
+121,Aarav Sharma,Female,50,Delhi,Delhi,2023-05-14
+122,Ananya Singh,Female,35,Mumbai,Maharashtra,2023-04-29
+123,Rahul Verma,Female,33,Pune,Maharashtra,2023-01-28
+124,Priya Gupta,Male,52,Jaipur,Rajasthan,2023-03-11
+125,Vikram Patel,Male,23,Ahmedabad,Gujarat,2023-09-08
+126,Neha Kumar,Male,32,Bengaluru,Karnataka,2023-03-24
+127,Rohan Mehta,Female,46,Chandigarh,Chandigarh,2023-12-10
+128,Sneha Joshi,Male,24,Hyderabad,Telangana,2023-10-31
+129,Arjun Malhotra,Female,48,Chennai,Tamil Nadu,2023-02-05
+130,Kavya Yadav,Male,51,Kolkata,West Bengal,2023-10-31
+131,Aditya Sharma,Male,52,Delhi,Delhi,2023-11-04
+132,Ishita Singh,Male,56,Mumbai,Maharashtra,2023-04-16
+133,Karan Verma,Male,47,Pune,Maharashtra,2023-08-21
+134,Pooja Gupta,Male,53,Jaipur,Rajasthan,2023-03-14
+135,Varun Patel,Female,18,Ahmedabad,Gujarat,2023-10-18
+136,Meera Kumar,Female,51,Bengaluru,Karnataka,2023-08-31
+137,Nikhil Mehta,Male,48,Chandigarh,Chandigarh,2023-04-12
+138,Riya Joshi,Female,41,Hyderabad,Telangana,2023-06-17
+139,Aman Malhotra,Female,42,Chennai,Tamil Nadu,2023-01-14
+140,Simran Yadav,Male,28,Kolkata,West Bengal,2023-02-11
+141,Aarav Sharma,Male,46,Delhi,Delhi,2023-08-27
+142,Ananya Singh,Male,54,Mumbai,Maharashtra,2023-07-26
+143,Rahul Verma,Male,50,Pune,Maharashtra,2023-07-29
+144,Priya Gupta,Female,42,Jaipur,Rajasthan,2023-07-22
+145,Vikram Patel,Male,42,Ahmedabad,Gujarat,2023-10-18
+146,Neha Kumar,Male,43,Bengaluru,Karnataka,2023-01-12
+147,Rohan Mehta,Male,36,Chandigarh,Chandigarh,2023-12-25
+148,Sneha Joshi,Male,29,Hyderabad,Telangana,2023-05-30
+149,Arjun Malhotra,Female,54,Chennai,Tamil Nadu,2023-01-13
+150,Kavya Yadav,Male,53,Kolkata,West Bengal,2023-01-22

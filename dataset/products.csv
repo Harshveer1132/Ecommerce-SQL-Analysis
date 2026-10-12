@@ -1,0 +1,31 @@
+product_id,product_name,category,subcategory,price
+P001,Wireless Mouse,Electronics,Audio,5205
+P002,Mechanical Keyboard,Fashion,Apparel,2046
+P003,USB-C Hub,Home & Office,Stationery,5546
+P004,Bluetooth Speaker,Sports,Fitness,2113
+P005,Power Bank,Accessories,Lifestyle,2887
+P006,Running Shoes,Electronics,Mobile Accessories,4139
+P007,Casual Sneakers,Fashion,Footwear,1193
+P008,Denim Jacket,Home & Office,Home,3562
+P009,Cotton T-Shirt,Sports,Training,3276
+P010,Backpack,Accessories,Travel,4810
+P011,Water Bottle,Electronics,Computer Accessories,5977
+P012,Smart Watch,Fashion,Accessories,4152
+P013,Fitness Band,Home & Office,Office,2749
+P014,Laptop Stand,Sports,Outdoor,2734
+P015,Webcam,Accessories,Mobile,2797
+P016,Desk Lamp,Electronics,Audio,4976
+P017,Notebook Set,Fashion,Apparel,2265
+P018,Office Chair,Home & Office,Stationery,1417
+P019,Phone Case,Sports,Fitness,2337
+P020,Travel Adapter,Accessories,Lifestyle,623
+P021,Wireless Earbuds,Electronics,Mobile Accessories,1082
+P022,Gaming Headset,Fashion,Footwear,994
+P023,Yoga Mat,Home & Office,Home,4742
+P024,Coffee Mug,Sports,Training,4471
+P025,Sunglasses,Accessories,Travel,4331
+P026,Formal Shirt,Electronics,Computer Accessories,3039
+P027,Track Pants,Fashion,Accessories,4442
+P028,Smartphone Tripod,Home & Office,Office,1385
+P029,Portable SSD,Sports,Outdoor,5452
+P030,HDMI Cable,Accessories,Mobile,3254
