@@ -2,34 +2,52 @@
 
 ## Project Overview
 
-This project analyses e-commerce data to understand sales performance, customer spending, product performance, and order trends using SQL.
+An end-to-end SQL analytics project exploring e-commerce sales, customer behaviour, product performance, and order trends using MySQL.
 
-## Tools Used
+## Tools
 
 * MySQL
 * MySQL Workbench
 
 ## Dataset
 
-The dataset contains five tables: customers, products, orders, order items, and reviews.
+The project uses five tables: customers, products, orders, order items, and reviews.
 
-## Key Analysis
+## Business Questions
 
-* Product and category revenue
-* Customer spending patterns
-* Order cancellations
-* Monthly sales trends
-* SQL joins, CTEs, subqueries, and window functions
+* Which products and categories generate the most revenue?
+* Who are the highest-spending customers?
+* What are the monthly sales trends?
+* What percentage of orders are cancelled?
+* How can sales performance be improved?
+
+## SQL Skills Demonstrated
+
+* Filtering, sorting, and aggregations
+* Joins and set operations
+* CASE statements and subqueries
+* Common Table Expressions (CTEs)
+* Window functions
+* Business analysis
+
+## Project Files
+
+* **[SQL Scripts](sql/)** — SQL queries and analysis
+* **[Dataset](dataset/)** — CSV files used in the project
+* **[Key Insights](insights.md)** — Findings and business recommendations
 
 ## Key Findings
 
-See [insights.md](insights.md) for business insights and recommendations.
+See [insights.md](insights.md) for the analysis results and recommendations.
 
-## SQL Scripts
+## Conclusion
 
-The project includes SQL scripts covering basic queries, aggregations, joins, CTEs, set operations, subqueries, window functions, and advanced analysis.
+This project demonstrates how SQL can be used to analyse business data and generate actionable insights.
 
 ## Author
 
-Harshveer Singh
+Harshveer
+
+
+
 
