@@ -44,6 +44,17 @@ See [insights.md](insights.md) for the analysis results and recommendations.
 
 This project demonstrates how SQL can be used to analyse business data and generate actionable insights.
 
+## Database Design
+
+The database contains five related tables: `customers`, `products`, `orders`, `order_items`, and `reviews`.
+
+### Entity-Relationship Diagram
+
+![E-commerce Entity-Relationship Diagram](data-modeling/ER_Diagram.png)
+
+[View Data Model Documentation](data-modeling/data_model_documentation.md)
+
+
 ## Author
 
 Harshveer
